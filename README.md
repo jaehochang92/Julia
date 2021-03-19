@@ -1,3 +1,3 @@
 # Julia
 
-This is a follow-up repository for the free lecture on https://juliaacademy.com/courses/.
+This is a follow-up repository for the free <a href='https://juliaacademy.com/courses/' target='_blank'>lecture on Julia Academy</a>.
